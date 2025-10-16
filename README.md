@@ -1,3 +1,4 @@
+
 # ⚙️ SvetLuna Hybrid Atmospheric Installation  
 *Core research project — 2025*  
 
@@ -32,11 +33,10 @@ The project combines principles of electrical engineering, atmospheric physics, 
 
 ### 📘 Documents
 | File | Description |
-|------|-------------|
-| `Gibrid_1.pdf` | General schematic and hybrid circuit diagram |
+|------|--------------|
 | `report_text_2.pdf` | Technical report with current-flow modeling |
 | `report_content_text5.pdf` | Extended data, parameters, and logs |
-| `Final_Tech.pdf` | Technical summary and conclusions |
+| `Final_Tech.pdf` | Core technical summary and final conclusions |
 
 ---
 
