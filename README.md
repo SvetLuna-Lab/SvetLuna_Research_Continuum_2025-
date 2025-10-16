@@ -1,4 +1,7 @@
+![SvetLuna HOR³ Banner](./banner_hor3.png)
 
+# ⚙️ SvetLuna Hybrid Atmospheric Installation  
+*Core research project — 2025*  
 # ⚙️ SvetLuna Hybrid Atmospheric Installation  
 *Core research project — 2025*  
 
